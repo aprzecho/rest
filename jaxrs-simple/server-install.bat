@@ -1,0 +1,1 @@
+mvn liberty:install-server liberty:install-feature

@@ -1,0 +1,1 @@
+mvn liberty:stop-server
