@@ -56,6 +56,7 @@
 
 					<assemblyInstallDirectory>liberty/runtime</assemblyInstallDirectory>
 					<configFile>liberty/config/server.xml</configFile>
+					<jvmOptionsFile>liberty/config/jvm.options</jvmOptionsFile>
 					<serverName>libertyServer</serverName>
 
 				    <features>
